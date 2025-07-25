@@ -1,0 +1,5 @@
+alias bat="batcat"
+alias venv="source .venv/bin/activate"
+alias n="nvim"
+alias open="explorer.exe"
+alias pbcopy="win32yank.exe -i"
